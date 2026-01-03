@@ -12,4 +12,4 @@ Run:
 node server.js
 ```
 
-That's it — a small sandbox for practicing API work.
+That's it — a small sandbox for practicing API work. Currently learning JavaScript and working with APIs.
